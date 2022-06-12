@@ -1,0 +1,8 @@
+## folders
+.idea/
+.nyc_output/
+dist/
+node_modules/
+
+## files
+.DS_Store
